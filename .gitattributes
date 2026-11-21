@@ -1,0 +1,5 @@
+# export_config.bat breaks if line endings become LF-only (cmd parses it as one line)
+*.bat -text
+
+# binary assets
+*.png binary

@@ -1,0 +1,7 @@
+# script output — contains sensitive config, never commit
+export_auto/
+export/
+
+# manual export scratch
+*.b64
+lastgood_dec.xml
